@@ -5,11 +5,11 @@ el resultado en pantalla.
 
 //Option 1: using variables
 
-let firstNumber = 25;
-let secondNumber = 5;;
-let thirdNumber = 13;
-let fourthNumber = 12 ;
-let fifthNumber = 43;
+const firstNumber = 25;
+const secondNumber = 5;;
+const thirdNumber = 13;
+const fourthNumber = 12 ;
+const fifthNumber = 43;
 
 let average = (firstNumber + secondNumber + thirdNumber + fourthNumber +fifthNumber)/5;
 console.log(average);

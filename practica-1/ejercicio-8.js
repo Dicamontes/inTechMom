@@ -6,7 +6,7 @@ El programa debe imprimir en pantalla:
 Su producto tiene un precio de 80, el descuento fue del 20%
 */
 
-let productPrice = 100;
+const productPrice = 100;
 let discount = 20;
 
 let discountedPrice = productPrice * (1 - (discount / 100));
